@@ -1,0 +1,11 @@
+./DOCS/MENU.md
+./DOCS/ABOUT.md
+./DOCS/OFFER.md
+./OFFER/1.md
+./OFFER/2.md
+./OFFER/3.md
+./OFFER/4.md
+./DOCS/COMPETITORS.md
+../docs/DOCS/TAGS.md
+../docs/DOCS/MORE.md
+./DOCS/FOOT.md
